@@ -1,0 +1,14 @@
+{
+  "name": "my-redis",
+  "version": "1.0.0",
+  "description": "Demo redis server and command line interface",
+  "main": "server.js",
+  "scripts": {
+    "serve": "node server.js",
+    "cli": "node client.js"
+  },
+  "keywords": [],
+  "author": "Akshat Tripathi",
+  "license": "ISC",
+  "dependencies": {}
+}
